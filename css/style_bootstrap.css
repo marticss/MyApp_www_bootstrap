@@ -1,3 +1,6 @@
+body {
+    position: relative;
+}
 
 .jumbotron {
     background: url(img/background.jpeg);
